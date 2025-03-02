@@ -1,4 +1,5 @@
-# 🚀 Shoxrux aka Hojayn
+# 🚀 Shoxrux 
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EF7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Vite;Creating+Awesome+Web+Experiences)
 
