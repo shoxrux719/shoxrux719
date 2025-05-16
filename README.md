@@ -9,7 +9,7 @@
 
 - 🧑‍💻 Frontend Developer (React, TypeScript, Vite)
 - 🔥 Passionate about UI/UX and modern web design
-- 🎯 Currently working on [Ulive](https://github.com/shoxrux719/Ulive) and other cool projects
+- 🎯 Currently working on [SHOP.CO](https://github.com/shoxrux719/SHOP.CO) and other cool projects
 
 ---
 
